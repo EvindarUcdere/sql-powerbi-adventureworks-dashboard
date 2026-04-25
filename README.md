@@ -31,6 +31,8 @@ The project was developed in the following stages:
 ### 1. Executive Summary
 High-level business overview with core KPIs and summary visuals:
 
+![Executive Summary](screenshots/01-executive-summary.png)
+
 - Total Sales
 - Total Orders
 - Total Customers
@@ -44,6 +46,8 @@ High-level business overview with core KPIs and summary visuals:
 ### 2. Sales Trend Analysis
 Time-based performance analysis with advanced DAX:
 
+![Sales Trend Analysis](screenshots/02-sales-trend-analysis.png)
+
 - Previous Year Sales
 - YoY Growth
 - YoY Growth %
@@ -55,12 +59,16 @@ Time-based performance analysis with advanced DAX:
 ### 3. Product Analysis
 Product performance broken down by category, subcategory, and product:
 
+![Product Analysis](screenshots/03-product-analysis.png)
+
 - Sales by Product Category
 - Sales by Product Subcategory
 - Top Products by Sales
 - Total Quantity
 
 ### 4. Customer Analysis
+![Customer Analysis](screenshots/04-customer-analysis.png)
+
 Customer contribution and segmentation analysis:
 
 - Total Customers
@@ -70,6 +78,8 @@ Customer contribution and segmentation analysis:
 - Customers by Territory
 
 ### 5. Territory Analysis
+![Territory Analysis](screenshots/05-territory-analysis.png)
+
 Geographic sales performance analysis:
 
 - Sales by Territory Group
